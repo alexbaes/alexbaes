@@ -1,4 +1,4 @@
-# Hi, soy Àlex :laughing:
+# Hi, soy Àlex 👋
 
 ## Frontend & WordPress developer
 
@@ -8,7 +8,7 @@ Soy un desarrollador web con más de dos años de experiencia en **diseño y des
 Además, he cursado un **master en Desarrollo de Aplicaciones y Sitios Web** donde he adquirido conocimientos de programación en diversos lenguajes y los he aplicado en diversos proyectos prácticos durante el master.
 <hr>
 
-LENGUAJES Y TECNOLOGÍAS
+💻 LENGUAJES Y TECNOLOGÍAS
 
 ![Texto alternativo](https://img.shields.io/badge/HTML5-green)
 ![Texto alternativo](https://img.shields.io/badge/CCS3-blue)
