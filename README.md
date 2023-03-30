@@ -1,4 +1,4 @@
-# Hi, soy Àlex
+# Hi, soy Àlex :laughing:
 
 ## Frontend & WordPress developer
 
