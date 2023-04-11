@@ -3,6 +3,8 @@
 ## Frontend & WordPress developer
 
 
+*alex@baesaudiovisual.com*
+
 Soy un desarrollador web con más de dos años de experiencia en **diseño y desarrollo de sitios web en WordPress**. He trabajado en diversos proyectos de temática diversa, como sitios corporativos, e-commerce, one-page... utilizando temas y plugins profesionales para satisfacer las necesitades específicas del cliente. También he aplicado **SEO** cuando ha sido requerido para mejorar y posicionar los sitios web y hacerlos más accesibles a los usuarios.
 
 Además, he cursado un **master en Desarrollo de Aplicaciones y Sitios Web** donde he adquirido conocimientos de programación en diversos lenguajes y los he aplicado en diversos proyectos prácticos durante el master.
